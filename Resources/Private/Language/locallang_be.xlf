@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+    <file source-language="en" datatype="plaintext" original="messages" date="2020-04-03T11:48:25Z" product-name="videothumbs">
+        <header/>
+        <body>
+        	<trans-unit id="local_media.thumbs.enable" xml:space="preserve">
+        	 	<source>Enable thumbnails for local video files</source>
+            </trans-unit>
+        	<trans-unit id="local_media.thumbs.containers" xml:space="preserve">
+        	 	<source>Local video files containers (and extension)</source>
+            </trans-unit>
+            <trans-unit id="local_media.thumbs.processor" xml:space="preserve">
+        	 	<source>Local video files processor (ffmpeg/others)</source>
+            </trans-unit>
+            <trans-unit id="local_media.thumbs.processorPath" xml:space="preserve">
+        	 	<source>Local video files processorpath</source>
+            </trans-unit>
+            
+        </body>
+    </file>
+</xliff>

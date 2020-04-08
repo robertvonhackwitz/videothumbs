@@ -1,0 +1,12 @@
+# cat=Video Thumbs; type=boolean; label=LLL:EXT:videothumbs/Resources/Private/Language/locallang_be.xlf:local_media.thumbs.enable
+localMediaThumbsEnable = 1
+
+# cat=Video Thumbs; type=string; label=LLL:EXT:videothumbs/Resources/Private/Language/locallang_be.xlf:local_media.thumbs.containers
+localMediaContainers = mp4,avi,mpeg,flv,wmv,mov,webm,mkv
+
+# cat=Video Thumbs; type=string; label=LLL:EXT:videothumbs/Resources/Private/Language/locallang_be.xlf:local_media.thumbs.processor
+localMediaProcessor = ffmpeg
+
+# cat=Video Thumbs; type=string; label=LLL:EXT:videothumbs/Resources/Private/Language/locallang_be.xlf:local_media.thumbs.processorPath
+localMediaProcessorPath = /usr/bin/
+

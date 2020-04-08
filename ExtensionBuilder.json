@@ -1,0 +1,39 @@
+{
+    "modules": [],
+    "properties": {
+        "backendModules": [],
+        "description": "Proof of concept to have thumbnails of local video files",
+        "emConf": {
+            "category": "example",
+            "custom_category": "",
+            "dependsOn": "typo3 => 9.5.0-9.5.99\n",
+            "disableLocalization": true,
+            "disableVersioning": true,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "9.5.0-9.5.99",
+            "version": "0.0.1"
+        },
+        "extensionKey": "videothumbs",
+        "name": "Video Thumbs",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "Unione Sindacale di Base",
+                "email": "hostmaster@usb.it",
+                "name": "Robert von Hackwitz",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [],
+        "vendorName": "RVH"
+    },
+    "wires": [],
+    "log": {
+        "last_modified": "2020-04-03 04:50",
+        "extension_builder_version": "9.10.2",
+        "be_user": " (1)"
+    }
+}

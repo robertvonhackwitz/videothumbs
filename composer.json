@@ -1,0 +1,28 @@
+{
+    "name": "rvh/videothumbs",
+    "type": "typo3-cms-extension",
+    "description": "Proof of concept to have thumbnails of local video files",
+    "authors": [
+        {
+            "name": "Robert von Hackwitz",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "typo3/cms-core": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "RVH\\Videothumbs\\": "Classes"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "RVH\\Videothumbs\\Tests\\": "Tests"
+        }
+    },
+    "replace": {
+        "rvh/videothumbs": "self.version",
+        "typo3-ter/videothumbs": "self.version"
+    }
+}
